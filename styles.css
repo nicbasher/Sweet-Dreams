@@ -1,0 +1,172 @@
+element.style {
+}
+<style>
+:root {
+    --junipPrimaryColor: #42799f;
+    --junipButtonColor: #42799f;
+    --junipButtonOutlineColor: #42799f80;
+    --junipStarColor: #FDB600;
+    --junipButtonTextColor: #fff;
+    --junipBorderColor: rgba(0, 0, 0, 0.08);
+}
+<style>
+:root {
+    --junipOutlineColor: #637381;
+}
+:root {
+    --bar-width: 0%;
+    --font-roboto: "Roboto";
+    --videowise-quiz-bg-color: "0, 0, 0";
+    --videowise-quiz-bg-opacity: 70;
+    --videowise-quiz-bg-display: "block";
+    --videowise-quiz-heading-fs: 48px;
+    --videowise-quiz-heading-ta: left;
+    --videowise-quiz-heading-color: #3cfecf;
+    --videowise-quiz-heading-ts: normal;
+    --videowise-quiz-subheading-fs: 20px;
+    --videowise-quiz-subheading-ta: left;
+    --videowise-quiz-subheading-color: #fff;
+    --videowise-quiz-subheading-fw: 700;
+    --videowise-quiz-subheading-ts: normal;
+    --videowise-quiz-answers-ts: normal;
+    --videowise-quiz-answers-color: #ffffff;
+    --videowise-quiz-answers-fs: 16px;
+    --videowise-quiz-answers-hc: #3cfecf;
+    --videowise-cta-heading-fs: 48px;
+    --videowise-cta-heading-ta: left;
+    --videowise-cta-heading-color: #3cfecf;
+    --videowise-cta-heading-fw: 700;
+    --videowise-cta-heading-ts: bold;
+    --videowise-cta-subheading-fs: 20px;
+    --videowise-cta-subheading-ta: left;
+    --videowise-cta-subheading-color: #00bce6;
+    --videowise-cta-subheading-fw: 700;
+    --videowise-cta-subheading-ts: bold;
+    --videowise-cta-button-fs: 20px;
+    --videowise-cta-button-ts: normal;
+    --videowise-cta-button-color: #3cfecf;
+    --videowise-cta-button-text-color: #ffffff;
+    --videowise-cta-button-border-color: #00bce6;
+    --videowise-cta-button-border-amount: 0px;
+    --videowise-cta-button-border-radius: 8px;
+    --videowise-cta-button-border-display: "block";
+    --videowise-form-heading-ta: left;
+    --videowise-form-heading-fs: 48px;
+    --videowise-form-heading-color: #3cfecf;
+    --videowise-form-heading-fw: 700;
+    --videowise-form-heading-ts: bold;
+    --videowise-form-subheading-fs: 20px;
+    --videowise-form-subheading-ta: left;
+    --videowise-form-subheading-color: #00bce6;
+    --videowise-form-subheading-fw: 700;
+    --videowise-form-subheading-ts: bold;
+    --videowise-form-highlight: #3cfecf;
+    --videowise-form-button-fs: 20px;
+    --videowise-form-button-ts: normal;
+    --videowise-form-button-color: #3cfecf;
+Show All Properties (9 more)
+}
+:root {
+    --videowise-viewport-height: 100%;
+    --videowise-story-border: linear-gradient(to top right, #4efac0, #ff5742);
+    --videowise-story-title: #000;
+}
+:root {
+    --bar-width: 0%;
+    --font-roboto: "Roboto";
+    --videowise-quiz-bg-color: "0, 0, 0";
+    --videowise-quiz-bg-opacity: 70;
+    --videowise-quiz-bg-display: "block";
+    --videowise-quiz-heading-fs: 48px;
+    --videowise-quiz-heading-ta: left;
+    --videowise-quiz-heading-color: #3cfecf;
+    --videowise-quiz-heading-ts: normal;
+    --videowise-quiz-subheading-fs: 20px;
+    --videowise-quiz-subheading-ta: left;
+    --videowise-quiz-subheading-color: #fff;
+    --videowise-quiz-subheading-fw: 700;
+    --videowise-quiz-subheading-ts: normal;
+    --videowise-quiz-answers-ts: normal;
+    --videowise-quiz-answers-color: #ffffff;
+    --videowise-quiz-answers-fs: 16px;
+    --videowise-quiz-answers-hc: #3cfecf;
+    --videowise-cta-heading-fs: 48px;
+    --videowise-cta-heading-ta: left;
+    --videowise-cta-heading-color: #3cfecf;
+    --videowise-cta-heading-fw: 700;
+    --videowise-cta-heading-ts: bold;
+    --videowise-cta-subheading-fs: 20px;
+    --videowise-cta-subheading-ta: left;
+    --videowise-cta-subheading-color: #00bce6;
+    --videowise-cta-subheading-fw: 700;
+    --videowise-cta-subheading-ts: bold;
+    --videowise-cta-button-fs: 20px;
+    --videowise-cta-button-ts: normal;
+    --videowise-cta-button-color: #3cfecf;
+    --videowise-cta-button-text-color: #ffffff;
+    --videowise-cta-button-border-color: #00bce6;
+    --videowise-cta-button-border-amount: 0px;
+    --videowise-cta-button-border-radius: 8px;
+    --videowise-cta-button-border-display: "block";
+    --videowise-form-heading-ta: left;
+    --videowise-form-heading-fs: 48px;
+    --videowise-form-heading-color: #3cfecf;
+    --videowise-form-heading-fw: 700;
+    --videowise-form-heading-ts: bold;
+    --videowise-form-subheading-fs: 20px;
+    --videowise-form-subheading-ta: left;
+    --videowise-form-subheading-color: #00bce6;
+    --videowise-form-subheading-fw: 700;
+    --videowise-form-subheading-ts: bold;
+    --videowise-form-highlight: #3cfecf;
+    --videowise-form-button-fs: 20px;
+    --videowise-form-button-ts: normal;
+    --videowise-form-button-color: #3cfecf;
+Show All Properties (9 more)
+}
+:root {
+    --videowise-viewport-height: 100%;
+    --videowise-story-border: linear-gradient(to top right, #4efac0, #ff5742);
+    --videowise-story-title: #000;
+}
+html {
+    width: 100%;
+    -ms-scroll-chaining: none;
+    overscroll-behavior: none;
+}
+html, html a {
+    -webkit-font-smoothing: antialiased!important;
+    -moz-osx-font-smoothing: grayscale;
+    -ms-scroll-chaining: none;
+    overscroll-behavior: none;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+::selection {
+    background: #000;
+    text-shadow: none;
+    color: #fff;
+}
+::selection {
+    background: #000;
+    text-shadow: none;
+    color: #fff;
+}
